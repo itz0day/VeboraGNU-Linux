@@ -8,7 +8,7 @@
 ---
 
 ## 🛠 Project Overview
-**vpm** is the custom-built, source-first package manager for **🐍 Vebora GNU/Linux**. Unlike conventional binary-based package managers, Rose is designed to automate the LFS (Linux From Scratch) build process, ensuring every binary is compiled with hardened flags, stripped of bloat, and optimized for security.
+**vpm** is the custom-built, source-first package manager for **🐍 Vebora GNU/Linux**. Unlike conventional binary-based package managers, vpm is designed to automate the LFS (Linux From Scratch) build process, ensuring every binary is compiled with hardened flags, stripped of bloat, and optimized for security.
 
 ## 🚀 Key Features
 * **Source-First Compilation:** Compiles packages from source with security-hardened flags.
