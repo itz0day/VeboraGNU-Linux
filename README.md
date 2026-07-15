@@ -1,14 +1,14 @@
-# Rosery OS | Rose Package Manager
+# 🐍 Vebora GNU/Linux | Viper Package Manager
 
 <div align="center">
   <h3>100% Privacy | 100% Cyber Security | 100% Daily Drive</h3>
-  <p>A source-first, hardened package manager built for the Rosery Linux ecosystem.</p>
+  <p>A source-first, hardened package manager built for the Vebora GNU/Linux.</p>
 </div>
 
 ---
 
 ## 🛠 Project Overview
-**Rose** is the custom-built, source-first package manager for **Rosery Linux**. Unlike conventional binary-based package managers, Rose is designed to automate the LFS (Linux From Scratch) build process, ensuring every binary is compiled with hardened flags, stripped of bloat, and optimized for security.
+**vpm** is the custom-built, source-first package manager for **🐍 Vebora GNU/Linux**. Unlike conventional binary-based package managers, Rose is designed to automate the LFS (Linux From Scratch) build process, ensuring every binary is compiled with hardened flags, stripped of bloat, and optimized for security.
 
 ## 🚀 Key Features
 * **Source-First Compilation:** Compiles packages from source with security-hardened flags.
@@ -31,5 +31,5 @@ Rose consists of four primary modules:
 
 ## 📦 Usage (Coming Soon)
 ```bash
-sudo rose install <package-name>
-sudo rose update
+sudo vpm install <package-name>
+sudo vpm update
